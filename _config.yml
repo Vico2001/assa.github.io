@@ -2,8 +2,8 @@
 #
 
 # Site settings
-title: Spectral
-description: |
+title: Sobre mí
+description: A continuación una breve descripción acerca de mí 
   Another fine responsive  
   site template freebie  
   crafted by [HTML5 UP](http://html5up.net)
@@ -13,10 +13,10 @@ email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
+  twitter: https://twitter.com/Adrian91826823
+  github: https://github.com/Vico2001
+  #linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://www.facebook.com/pg/Adrian-Coello-Beginner-Developer-107318994102574/posts/?ref=page_internal
   google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
